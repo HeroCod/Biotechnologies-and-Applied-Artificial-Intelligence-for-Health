@@ -5,4 +5,4 @@ All of what you see here is the result of the students committing their efforts,
 
 Everything here is provided as-is, without guarantee of it being fully accurate, but we always make the best effort we can to efficiently correct any mistake found in the repo.
 
-The Official Telegram Group for this repo is located at https://t.me/BiotechAndAIforHealth
+The Official Telegram Group for this Master's Degree and repo is located at https://t.me/BiotechAndAIforHealth
