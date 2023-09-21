@@ -10,3 +10,9 @@ The Official Telegram Group for this Master's Degree and repo is located at http
 This projects takes inspiration and aims to provide the same level of support to the students as https://github.com/Guray00/IngegneriaInformatica
 
 In the making with ❤️
+
+**Mantainers:**
+	[HeroCod](https://github.com/HeroCod)
+
+ 
+**Contributors:**
