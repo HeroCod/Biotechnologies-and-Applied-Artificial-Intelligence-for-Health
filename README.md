@@ -14,7 +14,7 @@ In the making with ❤️
 <h3>Mantainers:</h3>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[HeroCod](https://github.com/HeroCod)
+&nbsp;&nbsp;&nbsp;&nbsp; [HeroCod](https://github.com/HeroCod)
 <br>
  
 <h3>Contributors:</h3>
