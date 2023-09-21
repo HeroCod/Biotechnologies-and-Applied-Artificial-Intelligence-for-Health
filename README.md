@@ -12,7 +12,8 @@ This projects takes inspiration and aims to provide the same level of support to
 In the making with ❤️
 
 **Mantainers:**
-	[HeroCod](https://github.com/HeroCod)
-
+<br>
+<t> [HeroCod](https://github.com/HeroCod)
+<br>
  
 **Contributors:**
